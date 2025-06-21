@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm a Computer Engineering student at Ege Unıversity.<br>I want to be a Backend Developer.<br>I like watching TV series, playing pool and traveling.
 
 
 ## 🌐 Socials:
